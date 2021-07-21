@@ -1,0 +1,1 @@
+import ThatComponent from './components/myComponent.js';
